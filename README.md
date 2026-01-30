@@ -22,8 +22,6 @@ Objectives
 - Demonstrate structured problem-solving and clean code practices  
 
 Status
-Project completed as a functional prototype for educational and demonstrative purposes.
+- Project completed as a functional prototype for educational and demonstrative purposes.
 
-Authors
-Lais Lopes  
-Otavio Teixeira
+Authors: Lais Lopes and Otavio Teixeira
