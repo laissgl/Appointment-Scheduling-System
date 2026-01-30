@@ -1,7 +1,6 @@
 # Appointment Scheduling System
 Automated Medical Appointment Scheduling System
 
-Overview
 This project is an automated medical appointment scheduling system designed to streamline the booking and management of consultations. The system implements role-based access, allowing patients to view their scheduled consultations and doctors to access and manage their appointments. Users can schedule, view, and manage appointments through a structured and intuitive interface. The project was developed with a focus on automation, data organization, and a clean separation between frontend and backend logic.
 
 Features
