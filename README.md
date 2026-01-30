@@ -21,6 +21,6 @@ Objectives
 - Integrate frontend and backend components into a cohesive system  
 - Demonstrate structured problem-solving and clean code practices  
 
-Status: Project completed as a functional prototype for educational and demonstrative purposes.
+Status: Project completed as a functional prototype for educational.
 
 Authors: Lais Lopes and Otavio Teixeira
